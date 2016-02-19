@@ -1,4 +1,4 @@
-## In this codes are two functions:
+## In this code are two functions:
 ## makeCacheMatrix is a function that create a special "matrix" object that can
 ## cache its inverse
 ## cacheSove is a function that compute the especial matrix returned by
